@@ -1,0 +1,103 @@
+.firstName_input_class{
+    border-radius: 5px;
+}
+
+.cities {
+
+    border-color: 3px  blue;
+}
+
+
+.input {
+    border: solid 2px red;
+    padding: 10px;
+}
+
+.error-input{
+    border-radius: 10px;
+    border-color: blue;
+}
+
+
+.calculator_test {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: cadetblue;
+    border: 1px solid black;
+    padding: 20px;
+ 
+
+}
+
+.operation-block button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+.inputs-block .input-block{
+    display: inline-block;
+    
+}
+
+.inputs-block .input-block label{
+    display: block;
+}
+
+.calculator_test .test-slider img{
+    max-width: 60%;
+    height: 150px;
+}
+
+
+
+.generalBlock {
+    display: inline-flex;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #343434;
+}
+.generalBlock .task div {
+    display: inline-block;
+}
+
+.generalBlock .task {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(143, 198, 219);
+}
+
+.generalBlock .img {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(191, 202, 184);
+}
+
+li{
+    padding: 5px;
+    cursor: pointer;
+    background-color: rgb(228, 216, 216);
+  }
+ li:visited { 
+    background-color: cadetblue;
+}
+
+ li:focus{
+    background-color: rgb(247, 208, 150);
+}
+
+ li:hover {
+    background-color: #f90;
+}
+
+li:active {
+    background-color: rgb(184, 176, 164);
+}
+
+
+.task button {
+      display: block;
+      padding: 5px;
+      margin: 5px;
+      width: 100px;
+  }
